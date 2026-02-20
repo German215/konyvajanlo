@@ -13,10 +13,30 @@ body{
 
 .konyv{
     background-color: #eca;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 10px;
 
 }
 
 .borito{
     width: 120px;
     float: left;
+}
+
+.szoveg{
+    margin-left: 140px;
+}
+
+#otlet{
+    text-transform: uppercase;
+}
+
+#jack{
+    font-size: large;
+}
+
+p{
+    text-align: justify;
+    margin: 20px 20px 20px 20px;
 }
