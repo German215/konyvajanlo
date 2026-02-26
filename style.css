@@ -8,13 +8,14 @@ body{
     background-color: #ca8;
     width: 720px;
     margin: auto;
-    border: #eca solid 2px;
+    border: #eca solid 3px;
 }
 
 .konyv{
     background-color: #eca;
-    margin: 20px 20px 20px 20px;
+    margin: 0px 20px 20px 20px;
     border: 1px solid black;
+    box-shadow: 5px 5px 10px #432;
     
 
 }
@@ -41,4 +42,12 @@ body{
 p{
     text-align: justify;
     margin: 20px 20px 20px 20px;
+}
+
+#cim{
+    text-align: center;
+}
+
+#cim2{
+    text-align: center;
 }
