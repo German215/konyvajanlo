@@ -13,19 +13,21 @@ body{
 
 .konyv{
     background-color: #eca;
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 10px;
+    margin: 20px 20px 20px 20px;
+    border: 1px solid black;
+    
 
 }
 
 .borito{
     width: 120px;
     float: left;
+    margin-left: 20px;
+    margin-top: 20px;
 }
 
 .szoveg{
-    margin-left: 140px;
+    margin-left: 160px;
 }
 
 #otlet{
