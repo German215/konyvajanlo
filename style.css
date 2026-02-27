@@ -16,8 +16,6 @@ body{
     margin: 0px 20px 20px 20px;
     border: 1px solid black;
     box-shadow: 5px 5px 10px #432;
-    
-
 }
 
 .borito{
@@ -25,10 +23,13 @@ body{
     float: left;
     margin-left: 20px;
     margin-top: 20px;
+    border: rgb(209, 207, 76) solid 2px;
+    box-shadow: 5px 5px 10px #432;
 }
 
 .szoveg{
     margin-left: 160px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #otlet{
@@ -42,6 +43,7 @@ body{
 p{
     text-align: justify;
     margin: 20px 20px 20px 20px;
+    font-style: italic;
 }
 
 #cim{
@@ -50,4 +52,15 @@ p{
 
 #cim2{
     text-align: center;
+}
+
+.book{
+    float: right;
+    height: 140px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+.spanom{
+    font-weight: bold;
 }
