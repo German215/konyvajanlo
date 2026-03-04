@@ -64,3 +64,14 @@ p{
 .spanom{
     font-weight: bold;
 }
+
+.link{
+    text-align: right;
+}
+
+.button{
+    background-color: rgb(173, 118, 62);
+    float: right;
+    margin-right: 20px;
+    
+}
